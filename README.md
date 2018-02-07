@@ -1,4 +1,4 @@
-Lucene Test
+#Lucene Test
 
 Output:
 Indexing file: C:\TEMP\DOCS\example1.txt
